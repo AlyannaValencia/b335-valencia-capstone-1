@@ -1,0 +1,100 @@
+/*CSS Reset*/
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Lato', sans-serif;
+}
+
+.about{
+	font-size: 1.2em;
+}
+
+.projects{
+	font-size: 1.2em;
+}
+
+.tools{
+	font-size: 1.2em;
+}
+
+.contact{
+	font-size: 1.2em;
+}
+
+h1{
+	text-align: center;
+}
+
+.card-body-intro {
+	font-size: 1.3em;
+	Text-align: center;
+	padding: 2rem;
+}
+
+#about-me{
+	text-align: center;
+	padding: 2em;
+}
+
+.about-me{
+	font-size: 1em;
+}
+
+.skills {
+  max-width: 68.75rem;
+  margin: auto;
+  text-align: center;
+  margin-top: 2.5rem;
+}
+
+.skill-header {
+  margin-bottom: 1rem;
+}
+
+.skills-wrapper img {
+  padding: 1.25rem;
+}
+
+.icon {
+  width: 11.875rem;
+  height: 11.25rem;
+}
+
+.icon-card{
+	border-radius: 11px;
+	padding: 20px;
+	margin: 10px;
+}
+
+.projectone {
+	font-size: 1.2em;
+	margin: 2.5rem;
+}
+.accordion-item1 img {
+	border: 1px solid black;
+}
+
+.projecttwo{
+	font-size: 1.2em;
+	margin: 2.5rem;
+}
+
+.accordion-item2 img {
+	border: 1px solid black;
+ }
+
+.projectthree{
+	font-size: 1.2em;
+	margin: 2.5rem;
+}
+
+.accordion-item3 img{
+	border: 1px solid black;
+}
+
+.center{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
